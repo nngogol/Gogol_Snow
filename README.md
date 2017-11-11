@@ -1,3 +1,2 @@
-# flat-view
-control: 'qwer' and 'sa' keys
-##Play it Here https://nngogol.github.io/flat-view/. 
+## To see this project, click the link below!
+###-->> https://nngogol.github.io/Gogol_Snow/ 
